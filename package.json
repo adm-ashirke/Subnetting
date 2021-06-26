@@ -1,5 +1,5 @@
 {
-  "name": "cidr.xyz",
+  "name": "subnetting.abc",
   "version": "1.0.0",
   "description": "Web-based CIDR / netmask / IP address visualizer",
   "main": "index.js",
