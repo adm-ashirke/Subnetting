@@ -1,8 +1,8 @@
-# cidr.xyz
+# subnetting.abc
 
-**Web-based CIDR / netmask / IP address visualizer - https://cidr.xyz**
+**Web-based CIDR / netmask / IP address visualizer - https://subnetting.abc**
 
-[![cidr.png](cidr.png)](https://cidr.xyz)
+[![cidr.png](cidr.png)](https://subnetting.abc)
 
 ## Dev
 
